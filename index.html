@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <title>Lista de Compras por Departamento</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🛒 Lista de Compras</h1>
+
+    <div class="form">
+      <input type="text" id="itemInput" placeholder="Digite um item..." />
+      <select id="categoryInput">
+        <option value="Hortifruti">Hortifruti</option>
+        <option value="Açougue">Açougue</option>
+        <option value="Padaria">Padaria</option>
+        <option value="Frios">Frios</option>
+        <option value="Limpeza">Limpeza</option>
+        <option value="Higiene">Higiene</option>
+        <option value="Outros">Outros</option>
+      </select>
+      <button id="addItemButton">Adicionar</button>
+    </div>
+
+    <div id="shoppingListContainer"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
