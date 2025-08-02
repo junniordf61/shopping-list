@@ -22,6 +22,10 @@ This project was created to practice DOM manipulation, user interaction, and mod
 - JavaScript (Vanilla JS only)
 - Icons (e.g. Emoji or Font Awesome, if enabled)
 
+## 🔗 Link Deploy Vercel 
+
+[Shopping-list](https://shopping-list-nine-rosy.vercel.app/)
+
 
 ## 🚀 How to Use
 
