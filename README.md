@@ -23,11 +23,6 @@ This project was created to practice DOM manipulation, user interaction, and mod
 - Icons (e.g. Emoji or Font Awesome, if enabled)
 
 
-## 📸 Demo Preview
-
-![Shopping List Preview](./image.png)
-
-
 ## 🚀 How to Use
 
 1. **Clone this repo**:
